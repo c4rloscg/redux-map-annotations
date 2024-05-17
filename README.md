@@ -3,10 +3,10 @@
 This project is an example of how to use annotations in a WebGL based map such as Maplibre or Mapbox.
 Libraries:
 
-- React.js
-- Maplibre-gl
-- Tailwind CSS
-- Redux toolkit (RTK)
+- [React.js](https://react.dev/)
+- [Maplibre-gl](https://maplibre.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Redux toolkit](https://redux-toolkit.js.org/) (RTK)
 
 ![image](https://github.com/c4rloscg/redux-map-annotations/assets/39873340/597165fe-6289-4370-beb6-128addbec95c)
 
