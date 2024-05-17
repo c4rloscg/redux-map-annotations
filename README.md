@@ -8,6 +8,10 @@ Libraries:
 - Tailwind CSS
 - Redux toolkit (RTK)
 
+![image](https://github.com/c4rloscg/redux-map-annotations/assets/39873340/597165fe-6289-4370-beb6-128addbec95c)
+
+![image](https://github.com/c4rloscg/redux-map-annotations/assets/39873340/d334bd29-31c6-4122-ac2c-c0dcb6958daa)
+
 ## Getting Started
 
 To run this app locally:
